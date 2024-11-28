@@ -25,8 +25,8 @@ This project is a **Node.js** application using **Express.js** and **MongoDB** f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Utkarsh164/Blog-Site.git
+   cd Blog-Site
 # Blog & User Management API
 
 This project is a **Node.js** application using **Express.js** and **MongoDB** for managing blogs and users. It provides CRUD operations for blogs and user authentication features with JWT-based authentication.
@@ -54,5 +54,5 @@ This project is a **Node.js** application using **Express.js** and **MongoDB** f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Utkarsh164/Blog-Site.git
+   cd Blog-Site
